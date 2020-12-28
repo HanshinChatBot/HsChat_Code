@@ -94,3 +94,5 @@ for( Map<String, Object> sentence : sentences ) {
     }
 }
 ```
+### 🔗Link
+ - [HsChat_DataModeling](https://github.com/HanshinChatBot/HsChat_DataModeling)
