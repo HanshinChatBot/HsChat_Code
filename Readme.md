@@ -30,11 +30,11 @@
 
 문의 화면
 
-![HsChatBot%204542a4ae3af24da787449b167779ab2f/two.png](HsChatBot%204542a4ae3af24da787449b167779ab2f/two.png)
+![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/two.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/two.png)
 
 언어 분석 화면
 
-![HsChatBot%204542a4ae3af24da787449b167779ab2f/three.png](HsChatBot%204542a4ae3af24da787449b167779ab2f/three.png)
+![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/three.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/three.png)
 
 ### 🐳주요 코드
 

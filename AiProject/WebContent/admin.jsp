@@ -38,7 +38,7 @@
 </html>
 <script type="text/javascript">
     var textarea = document.getElementById("messageWindow");
-    var webSocket = new WebSocket("ws://localhost:8080/Final1/websocket");	
+    var webSocket = new WebSocket("ws://localhost:8080/AiProject/websocket");	
     
   	//메세지 태그 만들기
 	function createMessageTag(LR_className, senderName, message) {

@@ -50,3 +50,6 @@ dependency-reduced-pom.xml
 
 #server
 Servers
+
+#db
+db
