@@ -26,15 +26,15 @@
 
 메인 화면
 
-![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png)
+<img src = "https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png" height="488" width="488">
 
 문의 화면
 
-![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/two.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/two.png)
+<img src = "https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/two.png" height="488" width="488">
 
 언어 분석 화면
 
-![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/three.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/three.png)
+<img src = "https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/three.png" height="488" width="488">
 
 ### 🐳주요 코드
 
