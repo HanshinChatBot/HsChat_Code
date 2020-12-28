@@ -26,7 +26,7 @@
 
 메인 화면
 
-![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png](HsChatBot%204542a4ae3af24da787449b167779ab2f/one.png)
+![https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png](https://github.com/HanshinChatBot/HsChat_Code/blob/master/gitimg/one.png)
 
 문의 화면
 
